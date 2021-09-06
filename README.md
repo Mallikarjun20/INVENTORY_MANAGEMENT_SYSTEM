@@ -1,7 +1,7 @@
 # INVENTORY_MANAGEMENT_SYSTEM
-#FEATURES
-1. ADMIN SIDE
- ADDING ITEMS INTO INVENTORY AND EDITING ITEM NAME, PRICE, QUANTITY
-2. CLIENT SIDE
- PURCHASE ITEMS 
-3. UPDATED INVENTORY
+#FEATURES OF INVENTORY MANAGEMENT
+1. Adding items into the inventory
+2. Modify item name, price and quantity
+3. Generates bills 
+4. Track of user purchased items by sales.json file
+5. Updated Records.json after purchasing items
